@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/crisca807/NODEJS-EXPRESS-MONGO.git"
+    "url": "git+https://github.com/AplicativosSENA/encuestasatisfaccionBack-End"
   },
   "keywords": [
     "NodeJS",
@@ -18,12 +18,12 @@
     "REST",
     "Backend"
   ],
-  "author": "Nicolas Daniel Gomez",
+  "author": "Erik Damian Chaves Navarro",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/crisca807/NODEJS-EXPRESS-MONGO/issues"
+    "url": "https://github.com/AplicativosSENA/encuestasatisfaccionBack-End"
   },
-  "homepage": "https://github.com/crisca807/NODEJS-EXPRESS-MONGO#readme",
+  "homepage": "https://github.com/AplicativosSENA/encuestasatisfaccionBack-End",
   "devDependencies": {
     "nodemon": "^3.0.3"
   },
