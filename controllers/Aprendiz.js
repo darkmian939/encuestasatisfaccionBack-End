@@ -14,6 +14,8 @@ const schema = Joi.object({
     // Añadir validaciones para campos adicionales si es necesario
 });
 
+
+
 // Función para crear un aprendiz
 async function createAprendiz(body) {
     try {
